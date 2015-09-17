@@ -1,0 +1,8 @@
+(123) 123-1234 is a number
+(123)123-1234 is also a number
+(123) 1234-1234 is NOT a number
+This is in the middle (456)789-9034 of the line.
+(983) 093-2389 (0390) 039-1809 (0392) (203)093-9834
+At the end of the line: (092) 028-1092
+Mashed together (123)123-1234(123)123-1234
+The correct answer should be: 6
