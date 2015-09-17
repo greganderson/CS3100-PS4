@@ -1,0 +1,15 @@
+// Here is a comment
+Scanner s = new Scanner(System.in); // Nothing else should be here
+Pattern p = Pattern.compile("//.*^");
+
+String inp//ut = "";
+
+while (s.ha/sNextLine()) {
+	input += s.nextLine() + "\n";
+}
+
+// Comment // What?
+Matcher m = p.matcher(input);
+String result = m.replaceAll("");
+System.out.println(result);
+// More comments!

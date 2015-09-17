@@ -1,0 +1,6 @@
+My number is 123-45-6789 will this work?
+234-56-7890 is when it is at the start of a line.
+Here is at the end 098-65-5432
+Bad number 1233-12-1414
+Two numbers 123-23-2523 123-52-3535
+123-34-2342 124-24-2414 899-89-8989
