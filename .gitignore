@@ -2,3 +2,7 @@ out/
 .idea/
 *.iml
 *.swp
+.classpath
+.project
+PS4.userlibraries
+PS4_Anderson_Greg.eml
