@@ -11,7 +11,7 @@ public class Part5 {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        Pattern p = Pattern.compile("");
+        Pattern p = Pattern.compile("<([^\"<>])*(\\\"(\\\\.)*.*?(\\\\.)*(?<!\\\\)\\\")*([^\"<>])*>");
 
         String input = "";
 
@@ -20,5 +20,7 @@ public class Part5 {
         }
 
         Matcher m = p.matcher(input);
+        String result = m.replaceAll("");
+        System.out.println(result);
     }
 }
